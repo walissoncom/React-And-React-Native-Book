@@ -8,8 +8,8 @@ p {
   text-align: center;
   height: 100vh;
   line-height: 90vh;
-  color: #f4f4f4;
-  background: #1e3d59;
+  color: #fcedd8;
+  background: #d52e3f;
   font-family: "Niconne", cursive;
   word-spacing: 1em;
 }
@@ -17,7 +17,7 @@ p {
 p strong {
   font-size: 20rem;
   font-weight: 700;
-  text-shadow: 5px 5px 0px #e3d810, 10px 10px 0px #ffc13b, 15px 15px 0px #ff6e40,
-    20px 20px 0px #f47a60, 25px 25px 0px #d71b3b, 30px 30px 0px #3b4d61,
-    35px 35px 0px #3b4d61, 40px 40px 0px #3b4d61, 45px 45px 0px #3b4d61;
+  text-shadow: 5px 5px 0px #eb452b, 10px 10px 0px #efa032, 15px 15px 0px #46b59b,
+    20px 20px 0px #017e7f, 25px 25px 0px #c11a2b, 30px 30px 0px #c11a2b,
+    35px 35px 0px #c11a2b, 40px 40px 0px #c11a2b, 45px 45px 0px #c11a2b;
 }
