@@ -1,0 +1,23 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  font-size: 4rem;
+  text-align: center;
+  height: 100vh;
+  line-height: 90vh;
+  color: #f4f4f4;
+  background: #1e3d59;
+  font-family: "Niconne", cursive;
+  word-spacing: 1em;
+}
+
+p strong {
+  font-size: 20rem;
+  font-weight: 700;
+  text-shadow: 5px 5px 0px #e3d810, 10px 10px 0px #ffc13b, 15px 15px 0px #ff6e40,
+    20px 20px 0px #f47a60, 25px 25px 0px #d71b3b, 30px 30px 0px #3b4d61,
+    35px 35px 0px #3b4d61, 40px 40px 0px #3b4d61, 45px 45px 0px #3b4d61;
+}
