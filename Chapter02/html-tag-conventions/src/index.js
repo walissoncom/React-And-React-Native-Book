@@ -7,3 +7,5 @@ render(
   </button>,
   document.getElementById("root")
 );
+
+/* render(<Button />, document.getElementById("root")); */
