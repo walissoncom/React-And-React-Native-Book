@@ -6,7 +6,7 @@ Repository used to study the exercises and codes mentioned in the book. The main
 
 ## Content
 
-#### Section 1 – React
+### Section 1 – React
 
 Chapter 1, **Why React?**, covers the basics of what React really is, and why you want to use it.
 
@@ -32,7 +32,7 @@ Chapter 11, **Server-Side React Components**, discusses how React renders compon
 
 Chapter 12, **User Interface Framework Components**, introduces you to the popular Material-UI React framework for building responsive UIs.
 
-#### Section 2 – React Native
+### Section 2 – React Native
 
 Chapter 13, **Why React Native?**, shows that React Native is React for mobile apps. If you've already invested in React for web applications, then why not leverage the same technology to provide a better mobile experience?
 
@@ -58,7 +58,7 @@ Chapter 23, **Controlling Image Display**, shows how images play a big role in 
 
 Chapter 24, **Going Offline**, explains that mobile devices tend to have volatile network connectivity. Therefore, mobile apps need to be able to handle temporary offline conditions. For this, React Native has local storage APIs.
 
-#### Section 3 – React Architecture
+### Section 3 – React Architecture
 
 Chapter 25, **Native UI Components Using NativeBase**, shows you how to build native user interfaces using pre-built, platform-agnostic UI components.
 
